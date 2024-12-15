@@ -30,7 +30,7 @@
 </div>
 
 
-- 🔭 I’m currently working on our **School's Voting System for Student Council, and School Projects!**
+- 🔭 Visit my portfolio: jayjayandcattos.netlify.app
 
 - 🌱 I’m currently learning **Tailwind CSS, and JSReact**!
 
