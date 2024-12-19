@@ -42,8 +42,6 @@
 
 <img src="https://raw.githubusercontent.com/jayjayandcattos/jayjayandcattos/output/snake.svg" alt="Snake animation" />
 
-###ter.glitch.me/jayjayandcattos/count.svg?"  />
-</div>
 
 
 - 🔭 Visit my portfolio: jayjayandcattos.netlify.app
