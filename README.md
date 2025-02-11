@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayjayandcattos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayjayandcattos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="![jayjayandcattos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjayandcattos&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)"  />
 </div>
 
 ###
@@ -26,14 +25,7 @@
 <br clear="both">
 
 
-- 🔭 Visit my portfolio: jayjayandcattos.netlify.app
-
-- 🌱 I’m currently learning **Tailwind CSS, and JSReact**!
-
-- 💬 Ask me about **VB and C#!**
-
-- ⚡ Fun fact **I am good at MOBA games.**
-
+- 🔭 Visit my portfolio here: jayjayandcattos.netlify.app
 
 <p align="left">
 </p>
