@@ -2,7 +2,9 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjayandcattos&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
@@ -22,11 +24,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayjayandcattos/jayjayandcattos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayjayandcattos/jayjayandcattos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jayjayandcattos/jayjayandcattos/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jayjayandcattos/count.svg?" />
+</div>
 
 ###
 
