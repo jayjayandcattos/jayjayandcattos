@@ -6,7 +6,7 @@
 <h3 align="center">🎮 Gamer | 💻 Coder | 🎓 Student </h3>
 
 <p align="center">
-  Passionate about turning ideas into code. I build projects with HTML, CSS, JS, PHP, Java, Python, and C#. I dream big and grind hard to leave my mark in the digital world.
+  Passionate about turning ideas into code.
 </p>
 
 ---
