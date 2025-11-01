@@ -68,6 +68,4 @@
 
 ---
 
-<p align="center">
-  <i>⭐ From <a href="https://github.com/jayjayandcattos">jayjayandcattos</a></i>
-</p>
+
