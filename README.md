@@ -45,13 +45,7 @@
 
 <br>
 
-## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayjayandcattos&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&row=1" alt="Trophies"/>
-</p>
-
-<br>
 
 ## 🔗 Connect With Me
 
