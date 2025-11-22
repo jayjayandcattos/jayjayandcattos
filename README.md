@@ -2,9 +2,7 @@
   <img src="bp3.jpg" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">Justin Rivera</h1>
-<h3 align="center">Gamer • Coder • Student</h3>
-
+<h1 align="center">Yo, I'm Justin.</h1>
 <br>
 
 ## Tech Stack
