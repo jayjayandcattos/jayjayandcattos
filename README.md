@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bg3.jpg" width="100%" alt="Banner">
+  <img src="bp3.jpg" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">Justin Rivera</h1>
