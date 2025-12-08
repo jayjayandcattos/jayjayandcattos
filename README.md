@@ -23,21 +23,6 @@
 </div>
 <br>
 
-## GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayjayandcattos&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-<br>
-
-## GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayjayandcattos&theme=dark&show_icons=true&hide_border=true&count_private=true&border_radius=0&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=808080" alt="GitHub Stats" height="165"/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjayandcattos&theme=dark&layout=compact&hide_border=true&border_radius=0&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" height="165"/>
-</p>
-<br>
-
 ## Connect
 <p align="center">
   <a href="https://jayjayandcattos.netlify.app" target="_blank">
