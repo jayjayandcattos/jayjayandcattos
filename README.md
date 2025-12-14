@@ -31,7 +31,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjayandcattos&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"
     alt="Top Languages"
     width="49%"
-    height="195px"
+    height="193px"
   />
 </div>
 
