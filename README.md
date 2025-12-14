@@ -20,6 +20,26 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=white)
 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jayjayandcattos&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff"
+    alt="GitHub Stats"
+    width="49%"
+    height="195px"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjayandcattos&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"
+    alt="Top Languages"
+    width="49%"
+    height="195px"
+  />
+</div>
+
+<br>
+
+</div>
+<br>
+
 </div>
 <br>
 
