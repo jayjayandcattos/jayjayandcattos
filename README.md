@@ -20,6 +20,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=white)
 
+<p align="center">
+  <a href="https://github.com/jayjayandcattos">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jayjayandcattos&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="jayjayandcattos's GitHub Stats" />
+  </a>
+</p>
+
 <!-- <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=jayjayandcattos&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff"
