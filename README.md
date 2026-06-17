@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bp3.jpg" width="100%" alt="Banner">
+  <img src="bp4.jpg" width="100%" alt="Banner">
 </p>
 <h1 align="center">Yo, I'm Justin.</h1>
 <br>
