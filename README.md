@@ -7,8 +7,10 @@
 ## Tech Stack
 <div align="center">
 
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-000000?style=flat&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
@@ -25,21 +27,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jayjayandcattos&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="jayjayandcattos's GitHub Stats" />
   </a>
 </p>
-
-<!-- <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jayjayandcattos&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff"
-    alt="GitHub Stats"
-    width="49%"
-    height="195px"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjayandcattos&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"
-    alt="Top Languages"
-    width="49%"
-    height="193px"
-  />
-</div> -->
 
 <br>
 
