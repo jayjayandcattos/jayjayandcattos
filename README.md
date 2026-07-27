@@ -22,11 +22,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/jayjayandcattos">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jayjayandcattos&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="jayjayandcattos's GitHub Stats" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.profile-readme-generator.com/api?username=jayjayandcattos&locale=en&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&hide_border=false&order=1" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=jayjayandcattos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2&hide=php" height="170" alt="Top Languages" />
+</div>
 
 <br>
 
