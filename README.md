@@ -23,6 +23,7 @@
 ![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=white)
 </div>
 </div>
+<br>
 <h1 align="center">Connect.</h1>
 <p align="center">
   <a href="https://jayjayandcattos.netlify.app" target="_blank">
