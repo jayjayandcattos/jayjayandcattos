@@ -4,7 +4,7 @@
 <h1 align="center">Yo, I'm Justin.</h1>
 <br>
 
-## Tech Stack
+<h1 align="center">Stacks.</h1>
 <div align="center">
 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
@@ -21,17 +21,9 @@
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=white)
-
-
-<br>
-
 </div>
-<br>
-
 </div>
-<br>
-
-## Connect
+<h1 align="center">Connect.</h1>
 <p align="center">
   <a href="https://jayjayandcattos.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
